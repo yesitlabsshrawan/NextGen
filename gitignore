@@ -1,0 +1,62 @@
+# node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.idea/
+.vscode/
+*.iml
+
+# Environment variables
+.env
+.env.*
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/build/
+android/build/
+android/.idea/
+*.keystore
+*.jks
+
+# iOS
+ios/Pods/
+ios/build/
+ios/DerivedData/
+ios/*.xcworkspace
+ios/*.xcodeproj/project.xcworkspace/
+ios/.idea/
+
+# React Native
+.expo/
+.expo-shared/
+coverage/
+dist/
+build/
+
+# Metro & Cache
+.metro-cache/
+.tmp/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc
+*.bak
+*.swp
